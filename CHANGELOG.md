@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [11.2.20](https://github.com/itgalaxy/webfont/compare/v11.2.15...v11.2.20) (2021-07-27)
+
+
+### Bug Fixes
+
+* **deps:** switch out from latest versions in dependencies ([67efe05](https://github.com/itgalaxy/webfont/commit/67efe057f109b6f02efd62dd84f091e1ed138a9f)), closes [#464](https://github.com/itgalaxy/webfont/issues/464)
+
 ### [11.2.19](https://github.com/itgalaxy/webfont/compare/v11.2.18...v11.2.19) (2021-07-27)
 
 ### [11.2.18](https://github.com/itgalaxy/webfont/compare/v11.2.17...v11.2.18) (2021-07-27)
